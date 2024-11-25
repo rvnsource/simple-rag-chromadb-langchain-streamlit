@@ -1,0 +1,6 @@
+streamlit==1.40.1
+streamlit-chat==0.1.1
+langchain_community==0.3.7
+chromadb==0.5.20
+openai==1.55.0
+pathlib2==2.3.7.post1
